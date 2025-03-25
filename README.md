@@ -16,12 +16,10 @@ HW3_Task1&2
 │  ├─ vivocity.png
 │  ├─ vivocity_freespace.png
 │  └─ vivocity_freespace_raw.png
-├─ results
-│  ├─ a_star
-│  └─ dijkstra
+├─ results.pdf
 └─ src
    ├─ extract_free_space.py
-   └─ planner
-      ├─ a_star.py
-      ├─ bfs.py
-      └─ dijkstra.py
+   ├─ astar.py
+   ├─ tsp_solver.py
+   ├─ rrt.py
+   └─ greedy.py
